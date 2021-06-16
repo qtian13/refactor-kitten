@@ -1,2 +1,3 @@
-# refactor-kitten
+# refactor-Horiseon
+
 first homework, refactor the code
