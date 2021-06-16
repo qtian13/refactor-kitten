@@ -14,5 +14,6 @@ CHECK THE CSS FILES AT THE SAME TIME IN CASE THE PREVIOUS TAG NAME IS USED.
 - merge code for the block with the same content
 - change the tag h2 in footer to div since I do not think the author name is a heading
 - add attribute "alt" to img tags.
+- correct the indentation
 
 
