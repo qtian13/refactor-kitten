@@ -9,5 +9,10 @@ CHECK THE CSS FILES AT THE SAME TIME IN CASE THE PREVIOUS TAG NAME IS USED.
 - Throw all the side content into the tag "aside"
 - wrap author and copyright content into the tag "footer"
 - add a corresponding id to the section "search engine optimization" to make the nav bar functions properly
+- change the sequence of the blocks to make it consist with the sequence in html
+- Mark the start and end line to different block
+- merge code for the block with the same content
+- change the tag h2 in footer to div since I do not think the author name is a heading
+- add attribute "alt" to img tags.
 
 
