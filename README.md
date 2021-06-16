@@ -7,4 +7,5 @@
 - Use the tag "main" to wrap the detailed description of the 3 functions of Horiseon and seperate them into 3 sections in parallel.
 - Throw all the side content into the tag "aside"
 - wrap author and copyright content into the tag "footer"
+- add a corresponding id to the section "search engine optimization" to make the nav bar functions properly
 
