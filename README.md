@@ -44,7 +44,7 @@ Qiushuang Tian
 
 ## Acknowledgments
 
-- [Berkeley Coding Boot Camp] https://bootcamp.berkeley.edu/coding/
+- [Berkeley Coding Boot Camp] (https://bootcamp.berkeley.edu/coding/)
 
 
 
