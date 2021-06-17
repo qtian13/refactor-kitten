@@ -2,7 +2,7 @@
 This repository is created to refactor the Horiseon page to increase the web accessiblity and optimize the site for search engines.
 
 ## Getting Started
-```
+```console
 git clone https://github.com/qtian13/refactor_Horiseon.git
 ```
 
