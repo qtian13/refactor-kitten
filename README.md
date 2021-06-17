@@ -1,6 +1,11 @@
 # Refactor Horiseon Web Page
 This repository is created to refactor the Horiseon page to increase the web accessiblity and optimize the site for search engines.
 
+## Getting Started
+```
+git clone https://github.com/qtian13/refactor_Horiseon.git
+```
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -39,9 +44,7 @@ Qiushuang Tian
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code, libraries, packages, or UI was used  / inspired from
-* Inspiration
-* etc
+- [Berkeley Coding Boot Camp] https://bootcamp.berkeley.edu/coding/
 
 
 
